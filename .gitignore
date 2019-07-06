@@ -1,0 +1,14 @@
+.DS_Store
+/work
+/node_modules
+/pids
+/log
+/static
+*.marko.js
+*.log
+**/test/snapshots/
+gh-pages
+
+.idea/
+coverage/
+.nyc_output/

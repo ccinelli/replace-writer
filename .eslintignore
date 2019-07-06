@@ -1,0 +1,5 @@
+src/**/*.marko.js
+src/third-party/**/*.js
+node_modules
+gh-pages
+coverage
