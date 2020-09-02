@@ -44,7 +44,7 @@
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
     "flat": "^4.1.0",
-    "googleapis": "^27.0.0",
+    "googleapis": "^39.1.0",
     "ioredis": "^4.9.3",
     "is-url": "^1.2.4",
     "lodash": "^4.17.11",
