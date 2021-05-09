@@ -47,7 +47,7 @@
     "googleapis": "^27.0.0",
     "ioredis": "^4.9.3",
     "is-url": "^1.2.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "node-cache": "^3.2.1",
     "request-promise": "^3.0.0"
   },
